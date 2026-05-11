@@ -1,0 +1,15 @@
+audioread==3.0.1
+av==14.0.1
+chattts==0.2.0
+ffmpeg-python==0.2.0
+ffmpy==0.4.0
+huggingface-hub==0.26.0
+opencv-python==4.10.0.84
+pybullet==3.2.7
+scipy==1.14.1
+matplotlib==3.10.1
+pillow==10.4.0
+torch==2.4.0
+torchvision==0.19.0
+transformers==4.48.1
+zhipuai==2.1.5
