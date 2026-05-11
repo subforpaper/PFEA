@@ -73,7 +73,7 @@ python pfea_framework.py
 
 ## Acknowledgments
 
-- [PyBullet](https://pybullet.org/) - Physics engine
-- [UR5E Robot Model](https://github.com/ros-industrial/universal_robot) - Robot arm URDF
-- [Robotiq 2F85 Gripper](https://github.com/ros-industrial/robotiq) - Gripper URDF
+- PyBullet - Physics engine
+- UR5E Robot Model - Robot arm URDF
+- Robotiq 2F85 Gripper - Gripper URDF
 - Open-source VLM and LLM communities
